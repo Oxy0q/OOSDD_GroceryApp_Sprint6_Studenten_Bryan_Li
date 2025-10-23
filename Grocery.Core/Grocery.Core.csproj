@@ -8,5 +8,6 @@
 	<ItemGroup>
 		<!-- Alleen als je MVVM source generators gebruikt -->
 		<PackageReference Include="CommunityToolkit.Mvvm" Version="8.3.2" />
+		<PackageReference Include="Microsoft.Data.Sqlite" Version="9.0.10" />
 	</ItemGroup>
 </Project>
